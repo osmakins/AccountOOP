@@ -1,3 +1,3 @@
-# Account OOP
+# Student Course Management
 
-### OOP App for account management
+### PHP CRUD data table with bootstrap with using ajax
