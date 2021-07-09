@@ -5,7 +5,9 @@
     <meta charset="utf-8">
 </head>
 <body>
-  <header>
-    <h1>My blog</h1>
-  </header>
-  <main>
+
+    <header>
+        <h1>My blog</h1>
+    </header>
+
+    <main>
